@@ -1,0 +1,37 @@
+.title {
+    text-align: center;
+    font-size: 65px;
+}
+
+.underline-bar {
+    background-color: maroon;
+    height: 10px;
+    width: 1080px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    
+}   
+
+.main-container {
+    display: flex;
+    align-items: center;
+}
+
+#map {
+    margin-left:auto;
+    margin-right: auto;
+    height: 600px;
+    width: 500px;
+}
+
+.button p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    border: 2px solid black;
+    height: 25px;
+    width: 100px;
+    cursor: pointer;
+}
