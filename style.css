@@ -30,12 +30,8 @@
     border: 2px solid black;
     height: 100px;
     width: 200px;
-}
-
-.button p {
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
 }
-
