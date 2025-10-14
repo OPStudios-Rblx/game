@@ -31,7 +31,8 @@
     align-items: center;
     background-color: lightgray;
     border: 2px solid black;
-    height: 25px;
-    width: 100px;
+    height: 100px;
+    width: 200px;
     cursor: pointer;
+
 }
